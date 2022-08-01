@@ -1,0 +1,8 @@
+{
+  "alpha": 0.1,
+  "dropout": 0.0,
+  "gcn_num": 4,
+  "sz_c": 2,
+  "s_l_nums": 2,
+  "graph_norm": false
+}
